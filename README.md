@@ -30,13 +30,13 @@
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 
 <br></br>
-<!--
+
 <p align="left">
   <a href="https://github.com/tl-lucasestevam">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </p>
-
+<!--
 <p class="left">
   <a href="https://github.com/tl-lucasestevam">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tl-lucasestevam&theme=dark&border=FFFFFF&fire=78FE96&background=151515&currStreakLabel=FFFFFF&ring=78FE96" alt="tl-lucasestevam" />

@@ -30,8 +30,8 @@
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 
 <br></br>
-<!--
-<p align="left">
+
+<p align="right">
   <a href="https://github.com/tl-lucasestevam">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>

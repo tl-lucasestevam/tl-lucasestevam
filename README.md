@@ -1,4 +1,4 @@
-#👋 Hi, I'm Lucas Estevam
+# 👋 Hi, I'm Lucas Estevam
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/tl-lucasestevam/tl-lucasestevam/master/Night-Coding.gif" align="right"/>
 
@@ -17,19 +17,19 @@
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 
 ## ✨ Targeted stack / tools:
-###Front-end:
+### Front-end:
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-styled%20components-05122A?style=flat&logo=styledcomponents)&nbsp;
 ![Chakra Ui](https://img.shields.io/badge/-Chakra%20Ui-05122A?style=flat&logo=chakra%20ui)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 <br></br>
-###Back-end:
+### Back-end:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 <br></br>
-###Tools, softwares, etc:
+### Tools, softwares, etc:
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;

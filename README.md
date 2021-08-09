@@ -33,17 +33,10 @@
 
 <br></br>
 
-<p align="left">
-  <a href="https://github.com/tl-lucasestevam">
-    <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tl-lucasestevam&show_icons=true&locale=en&layout=compact&theme=dark"/>
-  </a>
-</p>
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark" />
 
-<p align="right">
-  <a href="https://github.com/tl-lucasestevam">
-    <img height="173em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
+<img align="left" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tl-lucasestevam&hide=java,objective-c&layout=compact&theme=dark"/>
+
 
 <!--
 <p class="left">

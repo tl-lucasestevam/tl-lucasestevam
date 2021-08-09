@@ -16,7 +16,7 @@
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 
-### ✨ Targeted stack / tools:
+### ✨ Targeted stack:
 <!--Front-end:-->
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
@@ -32,17 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 
-<br></br>
-
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tl-lucasestevam&hide=java,objective-c&layout=compact&theme=dark"/>
 </div>
-
-<!--
-<p class="left">
-  <a href="https://github.com/tl-lucasestevam">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tl-lucasestevam&theme=dark&border=FFFFFF&fire=78FE96&background=151515&currStreakLabel=FFFFFF&ring=78FE96" alt="tl-lucasestevam" />
-  </a>
-</p>
--->

@@ -13,14 +13,15 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### 📚 I'm learning right now:
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Next.js](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 
 ### ✨ Targeted stack / tools:
 ![Sass](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-styled%20components-05122A?style=flat&logo=styledcomponents)&nbsp;
+![Chakra Ui](https://img.shields.io/badge/-Chakra%20Ui-05122A?style=flat&logo=chakra%20ui)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;

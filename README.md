@@ -3,9 +3,6 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/tl-lucasestevam/tl-lucasestevam/master/Night-Coding.gif" align="right"/>
 
 <p align="left"> 
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=tl-lucasestevam&label=Profile%20views&color=0e75b6&style=flat" alt="tl-lucasestevam" /> 
-  </a>
   <a href="mailto:dev.lucasestevam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

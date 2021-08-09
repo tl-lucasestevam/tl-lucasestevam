@@ -35,13 +35,13 @@
 
 <p align="left">
   <a href="https://github.com/tl-lucasestevam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tl-lucasestevam&show_icons=true&locale=en&layout=compact&theme=dark"/>
+    <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tl-lucasestevam&show_icons=true&locale=en&layout=compact&theme=dark"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/tl-lucasestevam">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="173em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 

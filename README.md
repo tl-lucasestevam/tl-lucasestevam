@@ -9,14 +9,14 @@
   <a href="https://www.linkedin.com/in/tl-lucasestevam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/tllucasestevam">
-    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
   <a href="https://www.frontendmentor.io/profile/tl-lucasestevam">
     <img src="https://img.shields.io/badge/Frontend%20Mentor-3F54A2?style=for-the-badge&logo=frontendmentor&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/11500707/lucas-estevam">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F48125?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://dev.to/tllucasestevam">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
 

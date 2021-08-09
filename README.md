@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/tl-lucasestevam">
     <img height="173em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>

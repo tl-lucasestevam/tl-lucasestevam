@@ -15,6 +15,7 @@
 ### 📚 I'm learning right now:
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Next.js](https://img.shields.io/badge/-next.js-05122A?style=flat&logo=next.js)&nbsp;
 
 ### ✨ Targeted stack / tools:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;

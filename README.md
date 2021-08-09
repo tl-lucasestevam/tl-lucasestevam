@@ -46,7 +46,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
+<br>
+
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tl-lucasestevam&hide=java,objective-c,c,python&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tl-lucasestevam&hide=java,objective-c,c,python&layout=compact&theme=dark"/>
 </div>

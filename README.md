@@ -27,14 +27,14 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### 📚 I'm learning right now:
-![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 
 ### ✨ Targeted stack:
 <!--Front-end:-->
-![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-styled%20components-05122A?style=flat&logo=styledcomponents)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)&nbsp;
 ![Chakra Ui](https://img.shields.io/badge/-Chakra%20Ui-05122A?style=flat&logo=chakra%20ui)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 <!--Back-end:-->
@@ -42,9 +42,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 <!--Tools, softwares, etc:-->
-![Docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark" />

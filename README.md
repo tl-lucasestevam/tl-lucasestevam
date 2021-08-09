@@ -17,7 +17,6 @@
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 
 ### ✨ Targeted stack / tools:
-![Sass](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass)&nbsp;
 ![Typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-styled%20components-05122A?style=flat&logo=styledcomponents)&nbsp;

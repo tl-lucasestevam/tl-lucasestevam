@@ -36,6 +36,7 @@
 
 ### ✨ Targeted stack:
 <!--Front-end:-->
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)

@@ -27,12 +27,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### 📚 I'm learning right now:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 
 ### ✨ Targeted stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)

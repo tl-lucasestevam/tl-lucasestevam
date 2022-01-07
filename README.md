@@ -36,16 +36,9 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 
-### ✨ Targeted stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)
+### ✨ I'm interested in:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 <br>

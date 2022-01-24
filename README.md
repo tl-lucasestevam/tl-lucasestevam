@@ -26,6 +26,7 @@
 ### 💻 I am comfortable with:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)
@@ -36,6 +37,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
+![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)
 
 <br>
 

@@ -37,10 +37,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
 
-### ✨ I'm interested in:
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-
 <br>
 
 <div>

@@ -22,26 +22,3 @@
     <img src="https://img.shields.io/badge/Stack%20Overflow-F48125?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
-
-### 💻 I am comfortable with:
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
-### 📚 I'm learning right now:
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
-![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)
-
-<br>
-
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tl-lucasestevam&show_icons=true&theme=dark" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tl-lucasestevam&hide=java,objective-c,c,python&layout=compact&theme=dark"/>
-</div>
